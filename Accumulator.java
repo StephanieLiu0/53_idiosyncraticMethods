@@ -37,11 +37,11 @@ public class Accumulator {
             /* 4.  Workaround 0
                A programmer should expect there to be a way to
                work around the stumbling block, because
-               the JVM
-               knows the type of an element.
+               both the compiler and JVM
+               know the type of an element.
 
                Java's instanceOf operator identifies the type
-               of an element to the JVM.
+               of an element to the compiler.
              */
 
 
